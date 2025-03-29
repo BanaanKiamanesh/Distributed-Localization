@@ -1,4 +1,4 @@
-# Distributed-Localization
+# Anchor-Free Distributed-Localization? Really?
 
 Fooling around with the concept of distributed localization using a simple example.
 This is an implementation of the following paper:
