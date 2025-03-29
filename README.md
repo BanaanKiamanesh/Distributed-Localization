@@ -20,7 +20,7 @@ To solve the issue of the global localization problem, we need to have at least 
 
 It's good to notice that if we have other unknown for each node, e.g. timer synchonization bias as in GPS, we would need more anchor nodes. In this case 1 more unknown for each node, leads for a need of 1 more anchor node as if we are solving the problem in a higher dimention.
 
-<img src="Images/Test1.png" alt="Image 1" width="300" style="display:inline-block; margin-right: 10px;">
-<img src="Images/Test5.png" alt="Image 2" width="300" style="display:inline-block;">
+![30 Nodes, in 100x100 Room with 50m Perception Radius](Images/Test1.png)
+![200 Nodes, in 1000x1000 Room with 200m Perception Radius](Images/Test5.png)
 
 In the "Images" folder, you can find the results of the algorithm for different test cases.
